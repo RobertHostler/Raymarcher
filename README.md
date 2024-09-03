@@ -9,6 +9,8 @@ applications of computer graphics.
 For example, raymarching can easily render smooth surfaces that blend together,
 like liquids or soft solids such as ice cream.
 
+![screenshot](raymarched_icecream.png)
+
 this project uses the SDL2 library for opening a window and for handling input,
 GLAD for loading OpenGL functions, and GLM for math.
 
