@@ -1,4 +1,4 @@
-# OpenGL Renderer
+# Raymarching Renderer
 
 This is a renderer that uses Signed Distance Functions and Raymarching (not to
 be confused with raytracing). SDFs can represent smooth surfaces, and they can
